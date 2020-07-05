@@ -1,4 +1,5 @@
 #CNN (2-layer)
+
   Scores for test set:
     loss: 0.0322
     accuracy: 0.9848
