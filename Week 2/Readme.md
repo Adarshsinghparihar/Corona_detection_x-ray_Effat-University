@@ -15,9 +15,9 @@
 #VGG 16
 
     Scores for test set:
-        loss: 0.1398
+        loss: 0.1481
         accuracy: 0.9684
         
     Average scores for all epochs:
-        accuracy: 0.9679 (+- 0.0493)
-        loss: 0.0894
+        accuracy: 0.9779 (+- 0.0309)
+        loss: 0.0648
